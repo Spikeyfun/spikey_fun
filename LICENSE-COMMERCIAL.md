@@ -2,7 +2,7 @@
 
 **Copyright (c) 2025 Spikey Labs**
 
-This Commercial License Agreement ("Agreement") is entered into by **Spikey Labs** ("Licensor") and governs the use of the **Spikey Fun Launcher Contract** ("Software"), a blockchain-based launcher deployed on the **Supra blockchain**, as provided in the repository [https://github.com/Spikeyfun/spikey_fun].
+This Commercial License Agreement ("Agreement") is entered into by **Spikey Labs** ("Licensor") and governs the use of the **Spikey Fun Launcher Contract** ("Software"), a blockchain-based launcher deployed on the **Supra blockchain**, as provided in the repository [https://github.com/Spikeyfun/spikey_fun_contracts].
 
 ---
 
