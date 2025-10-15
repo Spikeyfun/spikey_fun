@@ -1,0 +1,30 @@
+[package]
+name = "spike_fun"
+version = "1.0.0"
+authors = []
+
+[addresses]
+
+FIXED = "0xe787f950cbc0d0fdb6d024b785bccd4a29883d879203bdac590b89577858fb27"
+spike_fun = "0xe787f950cbc0d0fdb6d024b785bccd4a29883d879203bdac590b89577858fb27"
+lp_treasury = "0xe787f950cbc0d0fdb6d024b785bccd4a29883d879203bdac590b89577858fb27"
+
+[dev-addresses]
+
+[dependencies.SupraFramework]
+git = "https://github.com/Entropy-Foundation/aptos-core.git"
+rev = "dev"
+subdir = "aptos-move/framework/supra-framework"
+
+[dependencies.amm]
+git = "https://github.com/Spikeyfun/spike_interfaces.git"
+rev = "main"
+subdir = "amm"
+
+[dependencies.hodl]
+git = "https://github.com/Spikeyfun/spike_interfaces.git"
+rev = "main"
+subdir = "hodl_fa"
+
+[dev-dependencies]
+
